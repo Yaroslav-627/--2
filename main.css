@@ -1,0 +1,13 @@
+div a img{
+    width: 32px;
+    height: 32px;
+}
+img{
+    width: 250px;
+    height: 400px;
+}
+header a {
+    text-decoration-line: none;
+    color: blue;
+    font-size: 25px;
+}
